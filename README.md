@@ -49,7 +49,7 @@ Clone the repository and run the tool:
 cd 
 rm -rf AutoForget
 git clone --depth=1 https://github.com/Saiyadul123/FB-AutoForget.git  
-cd AutoForget  
+cd FB-AutoForget  
 git pull  
 chmod 777 forget  
 python run.py  
